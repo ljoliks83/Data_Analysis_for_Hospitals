@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - array.size
+  - array.ndim
+  - "array.shape[1]"
+  - len(array)
+options:
+  - 12
+  - 2
+  - 3
+  - 4
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9676#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

@@ -1,0 +1,18 @@
+type: sorting
+options:
+  - x % 2 != 0
+  - x &lt;= 8
+  - x * 2 &lt; 20
+  - x &lt;= 3
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6539#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

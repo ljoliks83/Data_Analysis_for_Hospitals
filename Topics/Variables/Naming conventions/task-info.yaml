@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: gr8
+  - text: _joke
+  - text: 50cent
+  - text: my_name
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6587#comment
+status: Solved
+record: -1
+local_check: false

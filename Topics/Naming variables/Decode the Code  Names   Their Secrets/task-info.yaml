@@ -1,0 +1,32 @@
+type: matching
+custom_name: "Decode the Code: Names & Their Secrets"
+captions:
+  - user_id
+  - MAX_LOAD
+  - accountBalance
+  - is_active
+  - total_sum
+options:
+  - "Holds the cumulative total of values or items, written in snake_case to enhance\
+  \ readability and clarity."
+  - "Stores the balance of a user's account, following camelCase convention which starts\
+  \ with a lowercase letter and capitalizes subsequent words without spaces."
+  - "Used to store a unique identifier for a user, typically written in snake_case for\
+  \ better readability."
+  - "A boolean variable indicating whether a feature is active or not, typically using\
+  \ snake_case with a short, descriptive name."
+  - "Reflects a constant value representing the maximum load capacity, using uppercase\
+  \ letters and underscores to indicate its immutability."
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47402#comment
+status: Unchecked
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4

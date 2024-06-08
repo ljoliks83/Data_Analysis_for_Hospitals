@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - <code>.head()</code>
+  - <code>.info()</code>
+  - <code>.describe()</code>
+options:
+  - "Generates a summary of statistics for numerical columns in the DataFrame, such\
+  \ as mean, count, standard deviation, and quantiles."
+  - "Displays information about the DataFrame, including data types of each column,\
+  \ the number of non-null values, and memory usage."
+  - "Provides a quick preview of the first few rows of the DataFrame, helping to understand\
+  \ its structure and column names."
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/31814#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

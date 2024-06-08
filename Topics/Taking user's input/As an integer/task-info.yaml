@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: print(input())
+  - text: str(input())
+  - text: int(input())
+  - text: input()
+  - text: integer(input())
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6807#comment
+status: Solved
+record: -1
+local_check: false

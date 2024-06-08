@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Sets the first column as the index of the <code>DataFrame</code>.
+  - text: Sets a custom index column for the <code>DataFrame</code>.
+  - text: Specifies the index column when reading a JSON file.
+  - text: Specifies the index column when reading a CSV file.
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/31815#comment
+status: Solved
+record: -1
+local_check: false

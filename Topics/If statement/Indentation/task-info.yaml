@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: backslashes
+  - text: curly braces
+  - text: colons
+  - text: spaces
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5954#comment
+status: Solved
+record: -1
+local_check: false

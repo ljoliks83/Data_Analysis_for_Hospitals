@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: As Python is a dynamic typed language the initial value will be None.
+  - text: An InvalidError exception occurs.
+  - text: A NameError exception occurs.
+  - text: Python will bite you.
+  - text: Python will prevent typing such a variable.
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5861#comment
+status: Solved
+record: -1
+local_check: false

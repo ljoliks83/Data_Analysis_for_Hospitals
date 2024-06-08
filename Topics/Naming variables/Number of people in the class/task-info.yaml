@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: n_o_p
+  - text: nopitc
+  - text: n_of_people_inc
+  - text: number_of_people
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6874#comment
+status: Solved
+record: -1
+local_check: false

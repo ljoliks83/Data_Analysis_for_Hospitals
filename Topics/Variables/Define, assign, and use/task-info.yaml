@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: marvel_superhero = "Iron Man"
+  - text: dc_superhero = Batman
+  - text: dc_superhero == "Wonder Woman"
+  - text: marvel_superhero_() = "Black Widow"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13807#comment
+status: Solved
+record: -1
+custom_name: "Define, assign, and use!"
+local_check: false

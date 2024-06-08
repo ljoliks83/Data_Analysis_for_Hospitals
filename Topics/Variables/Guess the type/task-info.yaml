@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: str
+  - text: None (the variable will not be defined)
+  - text: int
+  - text: None (Python will throw an error because we tried to assign an int value to
+      a string variable)
+  - text: float
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6891#comment
+status: Solved
+record: -1
+custom_name: Guess the type!
+local_check: false

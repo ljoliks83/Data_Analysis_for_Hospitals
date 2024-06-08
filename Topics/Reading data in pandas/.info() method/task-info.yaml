@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: The number of non-null values in the DataFrame.
+  - text: 'The number of int values. '
+  - text: 'Data types of each column. '
+  - text: The number of rows and columns in the DataFrame.
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/31812#comment
+status: Solved
+record: -1
+local_check: false

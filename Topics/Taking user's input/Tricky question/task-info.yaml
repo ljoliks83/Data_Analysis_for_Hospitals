@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 20
+  - text: Error
+  - text: user_num + user_num
+  - text: 1010
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5916#comment
+status: Solved
+record: -1
+local_check: false

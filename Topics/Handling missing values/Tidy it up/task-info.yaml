@@ -1,0 +1,21 @@
+type: sorting
+custom_name: Tidy it up!
+options:
+  - ' <code>data.groupby("baby")</code>'
+  - <code>x.fillna(x.mean())).round(1)</code>
+  - <code>.apply(lambda x:</code>
+  - "<code>data[\"silence_index\"] =</code>"
+  - "<code>[\"silence_index\"]</code>"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17155#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4

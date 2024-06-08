@@ -1,0 +1,9 @@
+type: unsupported
+custom_name: Help John!
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/34869#comment
+status: Solved
+record: -1

@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: <code>join</code>
+  - text: <code>how</code>
+  - text: <code>axis</code>
+  - text: <code>keys</code>
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12351#comment
+status: Solved
+record: -1
+custom_name: Which parameter?
+local_check: false
